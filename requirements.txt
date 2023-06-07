@@ -1,6 +1,0 @@
-Sastrawi==1.0.1
-nltk==3.8.1
-pandas==2.0.2
-streamlit
-scikit-learn
-pip=23.1.2
